@@ -1,0 +1,53 @@
+
+apply plugin: 'com.android.application'
+
+android {
+    //compileSdkVersion 'Google Inc.:Google APIs:23'
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.vumobile.shaboxbuddy"
+        minSdkVersion 9
+        targetSdkVersion 24
+        versionCode 64
+        versionName "5.13"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.android.support:appcompat-v7:23.2.0'
+    //compile 'com.google.android.gms:play-services:+'
+    compile 'com.google.android.gms:play-services-identity:9.0.0'
+    compile 'com.google.android.gms:play-services-plus:9.0.0'
+    compile 'com.google.android.gms:play-services-gcm:9.0.0'
+    compile 'com.google.android.gms:play-services-analytics:9.0.0'
+    compile files('libs/AppRate_1.1.jar')
+    compile files('libs/bugsense-3.6.1.jar')
+    compile files('libs/FlurryAnalytics-4.2.0.jar')
+    compile files('libs/google-play-services_lib.jar')
+    compile files('libs/ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar')
+    compile files('libs/MobileAppTracker-3.1.jar')
+    compile files('libs/MobileAppTracker-javadoc-3.1.jar')
+    compile files('libs/volley.jar')
+    compile files('libs/gcm.jar')
+    compile 'com.facebook.android:facebook-android-sdk:4.5.0'
+    compile files('libs/adplaybind.jar')
+
+    compile 'com.google.firebase:firebase-messaging:9.0.0'
+    compile 'com.google.firebase:firebase-core:9.0.0'
+
+
+
+}
+
+apply plugin: 'com.google.gms.google-services'

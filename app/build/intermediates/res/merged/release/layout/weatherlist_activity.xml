@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/weather_header"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/shabox_header"
+        android:gravity="center_vertical"
+        android:scaleType="fitXY" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/layout_bottom"
+        android:layout_below="@+id/weather_header"
+        android:background="#FFFFFF" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/dhaka"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                
+                android:background="#FFFFFF"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="Dhaka" >
+
+                <TextView
+                    android:id="@+id/dhaka_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toLeftOf="@+id/dhaka_image"
+                    android:gravity="center_vertical"
+                    android:text="Dhaka"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/dhaka_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/arrow" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/blackbarproject" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/chitagong"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_below="@+id/dhaka"
+                
+                android:background="#FFFFFF"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="Chitagong" >
+
+                <TextView
+                    android:id="@+id/chitagong_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toLeftOf="@+id/chitagong_image"
+                    android:gravity="center_vertical"
+                    android:text="Chittagong"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/chitagong_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/arrow" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/blackbarproject" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rajshahi"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_below="@+id/chitagong"
+                
+                android:background="#FFFFFF"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="Rajshahi" >
+
+                <TextView
+                    android:id="@+id/rajshahi_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toLeftOf="@+id/rajshahi_image"
+                    android:gravity="center_vertical"
+                    android:text="Rajshahi"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/rajshahi_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/arrow" />
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/blackbarproject" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/khulna"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_below="@+id/rajshahi"
+                
+                android:background="#FFFFFF"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="Khulna" >
+
+                <TextView
+                    android:id="@+id/khulna_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toLeftOf="@+id/khulna_image"
+                    android:gravity="center_vertical"
+                    android:text="Khulna"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/khulna_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/arrow" />
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/blackbarproject" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/barishal"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_below="@+id/khulna"
+                
+                android:background="#FFFFFF"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="Barishal" >
+
+                <TextView
+                    android:id="@+id/barishal_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toLeftOf="@+id/barishal_image"
+                    android:gravity="center_vertical"
+                    android:text="Barisal"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/barishal_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/arrow" />
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/blackbarproject" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/shylet"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_below="@+id/barishal"
+                
+                android:background="#FFFFFF"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="Shylet" >
+
+                <TextView
+                    android:id="@+id/shylet_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toLeftOf="@+id/shylet_image"
+                    android:gravity="center_vertical"
+                    android:text="Sylhet"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/shylet_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/arrow" />
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/blackbarproject" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rangpur"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_below="@+id/shylet"
+                
+                android:background="#FFFFFF"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="Rangpur" >
+
+                <TextView
+                    android:id="@+id/rangpur_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toLeftOf="@+id/rangpur_image"
+                    android:gravity="center_vertical"
+                    android:text="Rangpur"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/rangpur_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/arrow" />
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/blackbarproject" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FFFFFF"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/layout_bottom_1"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="5dip"
+            android:background="@drawable/bar"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textFooterLebel1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:onClick="onHomeButtonClicked"
+                android:text=" Home"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#333333"
+                android:textColorHighlight="#A4A4A4"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textFooterLebel2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:onClick="onFaqButtonClicked"
+                android:text=" | Faq "
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#333333"
+                android:textColorHighlight="#A4A4A4"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textFooterLebel3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:onClick="onAboutButtonClicked"
+                android:text=" | Help"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#333333"
+                android:textColorHighlight="#A4A4A4"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textFooterLebel1_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="onHomeButtonClicked"
+            android:text=" Home"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#333333"
+            android:textColorHighlight="#A4A4A4"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/faqTextview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:text=" | Faq "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#333333"
+            android:textColorHighlight="#A4A4A4"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/aboutTextview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:text=" | About"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#333333"
+            android:textColorHighlight="#A4A4A4"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+</RelativeLayout>

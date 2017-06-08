@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\teletalk_faq.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\teletalk_faq.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\update_dialog_activity.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\update_dialog_activity.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\servicearchivelist.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\servicearchivelist.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_activity_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robiconfirmationdialogdaily.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robiconfirmationdialogdaily.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robi_faq.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robi_faq.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\shabox_buddy_main.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\shabox_buddy_main.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\gphelp.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\gphelp.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_push_activity_intent.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\activity_push_activity_intent.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\pushdialog.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\pushdialog.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\weatherlist_activity.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\weatherlist_activity.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robiconfirmationdialogweekly.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robiconfirmationdialogweekly.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\faq.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\faq.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\banglalinkhelp.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\banglalinkhelp.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\topchart.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\topchart.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\re_confirmation.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\re_confirmation.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robiservicepackageoption.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robiservicepackageoption.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\new_weather_page.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\new_weather_page.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robiwapdialog.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robiwapdialog.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\grid_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\grid_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\airtelhelp.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\airtelhelp.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\airtel_faq.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\airtel_faq.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robinibondhonbatilmsg.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robinibondhonbatilmsg.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robishurudialogweekly.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robishurudialogweekly.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\about.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_small.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\msisdn_form.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\msisdn_form.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robishurudialogdaily.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robishurudialogdaily.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\gp_reconfirmation.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\gp_reconfirmation.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\single_list_item.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\single_list_item.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\push_activity.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\push_activity.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_round.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_login_fragment.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\service_text_weather_page.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\service_text_weather_page.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\gp_confirmation.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\gp_confirmation.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\serviceresultarchive.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\serviceresultarchive.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\topcategories.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\topcategories.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_large.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\service_text_page.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\service_text_page.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robireconfirmationdialog.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robireconfirmationdialog.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_video_progress_dialog.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\custom_video_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\robihelp.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\robihelp.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\confirmation.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\confirmation.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\banglalinkfaq.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\banglalinkfaq.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_small.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\adplay_activity.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\adplay_activity.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\teletalkhelp.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\teletalkhelp.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\pincode_form.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\pincode_form.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_tab.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\morecategories.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\morecategories.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\adplay_video_activity.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\adplay_video_activity.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\gpfaq.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\gpfaq.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\fifa_service_text_page.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\fifa_service_text_page.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_round.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\help.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_large.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_white_large.xml"
+    }
+]

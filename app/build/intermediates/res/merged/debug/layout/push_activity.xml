@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="260dp"
+    android:orientation="vertical"
+    android:id="@+id/MainlayoutCustom"
+
+    >
+
+    <LinearLayout
+        android:id="@+id/layoutCustom"
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:background="#000000"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/buddy_notification"
+            android:layout_gravity="center"
+            />
+
+        <!--<TextView android:id="@+id/text_view"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:text="ভালোবাসা দিবসএ প্রিয়জনকে গিফট দিতে চান?আপনার জন্য গিফট আর লিস্ট রয়েছে Buddy তে"-->
+            <!--android:textColor="#ffffffff"-->
+            <!--android:textSize="15sp"-->
+            <!--android:layout_weight="75"-->
+            <!--android:gravity="center"-->
+            <!--android:layout_marginLeft="5dp"-->
+            <!--android:maxLines="3"-->
+            <!--android:textStyle="bold" />-->
+
+        <TextView android:id="@+id/text_view"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="#ffffffff"
+            android:textSize="15sp"
+            android:layout_marginLeft="5dp"
+            android:maxLines="4"
+            android:background="#ff000000"
+            android:text=""
+            android:textStyle="bold" />
+
+        <TextView android:id="@+id/notificationTime"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text=""
+            android:layout_weight="24"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="5dp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/IconDownload"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layoutCustom"
+        android:background="#FF0000"
+        android:gravity="center"
+
+        >
+
+        <ImageView
+            android:id="@+id/imageViewTest"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:background="@drawable/ic_launcher"
+
+
+            />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/NotifibtnDownload"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:text="Launch Buddy"
+        android:textSize="22sp"
+        android:layout_marginTop="215dp"
+        android:gravity="center"
+        android:background="#bb000000"
+        android:textStyle="bold"
+        android:fontFamily="arial"
+
+        />
+
+    <!--    <Button
+            android:id="@+id/notifiation_image"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/closebutton" />-->
+
+</RelativeLayout>

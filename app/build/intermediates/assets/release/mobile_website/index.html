@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <!-- <meta name="viewport" content="initial-scale=1.0, user-scalable=no"> -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <title></title>
+
+        <link rel="stylesheet" href="jquery.mobile-1.3.1.min.css">
+        <!-- <link href="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.css" rel="stylesheet"> -->
+
+        <!-- Extra Codiqa features -->
+        <link rel="stylesheet" href="codiqa.ext.css">
+        <!-- jQuery and jQuery Mobile -->
+        <script src="jquery-1.9.1.min.js"></script>
+        <script src="jquery.mobile-1.3.1.min.js"></script>
+
+        <!-- Extra Codiqa features -->
+        <script src="codiqa.ext.js"></script>
+        <style>
+            body{
+                background-color:#DAEEF5;
+            }
+            #textMessage{
+                text-align: justify;
+            }
+            #page_top_categories{
+                background-color:#DAEEF5;
+            }
+            #page_more_categories{
+                background-color:#DAEEF5;
+            }
+            #more_cat_view{
+                background-color:#DAEEF5;
+            }
+            #top_cat_view{
+                background-color:#DAEEF5;
+            }
+
+            #weather_cat_view{
+                background-color:#DAEEF5;
+                padding:20px;
+                margin-bottom: 10px;
+            }
+            #headerhelp{
+                background-color:#006699;
+                padding:10px;
+                color: #EFEFEF; 
+                text-align: center;     
+            }
+            #help_page_view{
+                background-color:#DAEEF5;
+                padding:10px;
+            }
+            #helpPage{
+                background-color:#DAEEF5;
+            }
+            .helplist li{
+                list-style: circle;
+                font-size: 1em;
+            }
+            .newColor{
+                background:#006699;      
+            }
+            .newColor span
+            {
+                color:#fff;
+                text-shadow: 0 1px 0 #006699;
+            }
+            .ui-btn-active
+            {
+                background: #fff;
+            }
+            .ui-btn-active span{
+                color:#000;
+                text-shadow: 0 1px 0 #fff;
+            }
+
+        </style>
+    </head>
+    <body>
+        <!-- Home -->
+
+
+        <div data-role="page" id="page_top_categories" data-dom-cache="true">
+            <div data-role="content">
+                <div style="width:100%">
+                    <img src="http://202.164.213.242/CMS/UIHeader/D480x320/Shabox_Header.png" alt="image" style="width:100%;">
+                </div>
+                <div style="width:100%" id="adplay_banner" align="center">
+
+                    <!-- <img src="http://202.164.213.242/CMS/UIHeader/D480x320/Shabox_Header.png" alt="image" style="width:100%;"> -->
+                </div>
+                <!-- <div style="width:100%" id="fifa_image">
+                    <img src="http://202.164.213.242/CMS/UIHeader/D480x800/Fifa_Banner.jpg" alt="image" style="width:100%;">
+                </div> -->
+
+                <div data-role="footer" data-theme="d">
+                    <div data-role="navbar" id="topNavbar" data-position="" data-tap-toggle="false">
+                        <div style="background-color:#CCCCCC;border:1px solid #355B78"></div>
+                        <ul>
+                            <li><a href="#page_top_categories" data-icon="star" class="ui-link-inherit newColor" data-theme="c" data-transition="none">Top Categories</a></li>
+                            <li><a href="#page_more_categories"  id="#nav_footer_btn_more_categories" data-icon="grid" class="ui-link-inherit newColor" data-transition="none">More Categories</a></li>
+                            <li><a href="#" id="helpPage_android" onclick="helpPage_android()" data-icon="info" class="ui-link-inherit newColor" data-transition="none">Help</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div  id="top_cat_view"><!-- Grid View --></div>
+
+            </div>
+            <div style="background-color:#CCCCCC;border-top:1px solid #999999"> </div>
+            <!-- <div style="color:#cccccc;font-size:10px;padding:5px;text-align:center;background-color:#F8F8F8">Copyright (C) 2013 | VU Mobile Ltd.</div> -->
+            <div id="copyrightLogo" style="color:#cccccc;font-size:10px;padding:5px;text-align:center;background-color:#F8F8F8">Copyright (C) 2014 | VU Mobile Ltd.</div>
+        </div>
+
+
+        <!-- More Category Tab -->
+        <div data-role="page" id="page_more_categories" data-dom-cache="true">
+            <div data-role="content">
+                <div style="width:100%">
+                    <img src="http://202.164.213.242/CMS/UIHeader/D480x320/Shabox_Header.png" alt="image" style="width:100%;">
+                </div>
+                <div data-role="footer" data-theme="d">
+                    <div data-role="navbar" data-position="" data-tap-toggle="false">
+                        <div style="background-color:#CCCCCC;border:1px solid #355B78"></div>
+                        <ul>
+                            <li><a href="#page_top_categories" data-icon="star" class="ui-link-inherit newColor" data-theme="c" data-transition="none">Top Categories</a></li>
+                            <li><a href="#page_more_categories" id="nav_footer_btn_more_categories"  data-icon="grid" class="ui-link-inherit newColor" data-transition="none">More Categories</a></li>
+                            <li><a href="#" onclick="helpPage_android()" id="helpPage_android" data-icon="info" class="ui-link-inherit newColor" data-transition="none">Help</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="more_cat_view"><!-- Grid View --></div>
+            </div>
+
+            <div style="background-color:#CCCCCC;border-top:1px solid #999999"> </div>
+            <div style="color:#cccccc;font-size:10px;padding:5px;text-align:center;background-color:#F8F8F8">Copyright (C) 2014 | VU Mobile Ltd.</div>
+
+
+
+        </div>
+
+
+        <!-- Weather Category Tab -->
+        <div data-role="page" id="page_weather_categories">
+
+            <div data-role="header"  data-theme="b" data-position="fixed">
+                <a href="#" id="buttonBack" data-transition="none" data-theme="b" data-role="back" data-icon="back">Back</a>
+                <h1>Weather Service</h1>
+            </div>
+
+            <div data-role="content">
+                <div style="width:100%">
+                    <img src="http://202.164.213.242/CMS/UIHeader/D480x320/Shabox_Header.png" alt="image" style="width:100%;">
+                </div>
+                <!-- Weather Sub Category  -->
+                <div id="weather_cat_view">
+
+                    </br>
+                    <ul data-role="listview">                 
+                        <li><a class="weather_sub_cat_Button" href="#" criteriaId="1">Dhaka</a></li>
+                        <li><a class="weather_sub_cat_Button" href="#" criteriaId="2">Chittagong</a></li>                 
+                        <li><a class="weather_sub_cat_Button" href="#" criteriaId="3">Rajshahi</a></li>
+                        <li><a class="weather_sub_cat_Button" href="#" criteriaId="4">Khulna</a></li>                
+                        <li><a class="weather_sub_cat_Button" href="#" criteriaId="5">Barisal</a></li>
+                        <li><a class="weather_sub_cat_Button" href="#" criteriaId="6">Sylhet</a></li>
+                        <li><a class="weather_sub_cat_Button" href="#" criteriaId="7">Rangpur</a></li>
+                    </ul>
+                </div>
+                <!-- End Weather Sub Category  -->
+            </div>
+
+            <div data-role="footer" data-theme="d">
+                <div data-role="navbar" data-position="fixed" data-tap-toggle="false">
+                    <div style="background-color:#CCCCCC;border:1px solid #355B78"></div>
+                    <ul>
+                        <li><a href="#page_top_categories" data-icon="star" class="ui-link-inherit newColor" data-theme="c" data-transition="none">Top Categories</a></li>
+                        <li><a href="#page_more_categories" id="nav_footer_btn_more_categories"  data-icon="grid" class="ui-link-inherit newColor" data-transition="none">More Categories</a></li>
+                        <li><a href="#" onclick="helpPage_android()" id="helpPage_android" data-icon="info" class="ui-link-inherit newColor" data-transition="none">Help</a></li>
+                    </ul>
+                    <div style="background-color:#CCCCCC;border-top:1px solid #999999"> </div>
+                    <div style="color:#cccccc;font-size:10px;padding:5px;text-align:center;background-color:#F8F8F8">Copyright (C) 2014 | VU Mobile Ltd.</div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- For Help Page -->
+        <div data-role="page" id="helpPage" data-dom-cache="true" data-prefetch>
+            <div data-role="header"  data-theme="b"  data-position="fixed">
+                <a href="#" id="buttonHelpBack" data-transition="none" data-theme="b" data-role="back" data-icon="back">Back</a>
+                <h1>Shabox Buddy</h1>
+
+            </div>
+
+            <div data-role="content">
+                <div style="width:100%">
+                    <img src="http://202.164.213.242/CMS/UIHeader/D480x320/Shabox_Header.png" alt="image" style="width:100%;">
+                </div>
+                <div  id="headerhelp">Help</div>
+
+                <div id="help_page_view">
+                    <p> Support Information Service Name: SHABOX BUDDY </p>
+                    <p> Service Type: Infotainment</p>
+                    <p> For GP User: </p>
+
+                    <ul class ="helplist">
+                        <li>Activation process: Type START SB send to 6624. Ex: START SB to 6624 </li>
+                        <li>Deactivation process: Type STOP SB send to 6624. Ex: STOP SB to 6624</li>
+                        <li>Helpline: 09612316264 (9am-7pm)</li>
+                        <li>Support mail : support@vumobile.biz</li>
+                    </ul>
+
+                    <p>For Robi User:</p>
+                    <ul class ="helplist">
+                        <li>Activation process: Type START SB send to 6624. Ex: START SB to 6624</li>
+                        <li>Deactivation process: Type STOP SB send to 6624. Ex: STOP SB to 6624</li>
+                        <li>Helpline: 09612316264 (9am-7pm)</li>
+                        <li>Support mail: support@vumobile.biz</li>
+                    </ul>
+
+                    <p> For Blink User:<p/>
+                    <ul class ="helplist">
+                        <li>Activation process: Type START SB send to 6624. Ex: START SB to 6624</li>
+                        <li>Deactivation process: Type STOP SB send to 6624. Ex: STOP SB to 6624</li>
+                        <li>Helpline: 09612316264 (9am-7pm)</li>
+                        <li>Support mail: support@vumobile.biz</li> 
+                    </ul>
+                    <p> Charging Policy : 2tk/day for all operator users </p>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Help Page -->
+
+        <div data-role="page" id="pageone" data-dom-cache="false">
+            <div data-role="header" data-theme="b">
+                <a href="#" id="buttonBack" data-theme="b" data-role="back">Back</a>
+                <h1>ShaboxBuddy Service</h1>
+            </div>
+
+            <div data-role="content">
+                <p id="textMessage" style="text-align: justify;font-face:verdana;line-height:120%">Loading.......</p>
+            </div>
+
+            <div data-role="footer" data-theme="d">
+                <div data-role="navbar" data-position="fixed" data-tap-toggle="false">
+                    <div style="background-color:#CCCCCC;border:1px solid #355B78"></div>
+                    <div style="padding:10px;text-align:center;font-size:18px">Home | Faq | About</div>
+                    <div style="background-color:#CCCCCC;border-top:1px solid #999999"> </div>
+                    <div style="color:#cccccc;font-size:10px;padding:5px;text-align:center;background-color:#F8F8F8">Copyright (C) 2014 | VU Mobile Ltd.</div>
+                </div>
+            </div> 
+        </div> 
+    </body>
+    <script type="text/javascript">
+
+        // $( document ).on( "pageinit", function( event ){
+
+
+
+        $(document).ready(function () {
+
+            var myValue = null;
+            function callFromActivity(mygetValue) {
+                alert(mygetValue);
+            }
+            var content = "";
+            var cnt = 0;
+            $("#top_cat_view").html("<p align='center'>Loading, Please wait...</p>");
+            $.getJSON('http://203.76.126.210/shaboxbuddy/get_categories.php?callback=?&cat=5', function (data)
+            {
+
+                $.each(data, function (i, item) {
+                    var ServiceTitle = item.ServiceTitle;
+                    var ServiceID = item.ServiceID;
+                    var ImageName = item.ImageName;
+                    var countLike = item.countLike;
+
+                    //alert(ServiceTitle);
+
+                    cnt++;
+
+                    //alert(cnt);
+                    //270
+                    if (cnt % 2 != 0) {
+                        content = content + '<div class="ui-grid-a"><div class="ui-block-a" style="padding:10px;"><a id="contentButton" href="#" data-role="button" param = ' + ServiceID + '><img src="http://wap.gpgamestore.com/CMS/UIHeader/CategoryImg/' + ImageName + '" alt="image" style="width:100%"></a><div style="width:100%;text-align:center;"><a id="contentButton" href="#" data-role="" param = ' + ServiceID + ' style="text-decoration: none;">' + ServiceTitle + '</a></div><div style="width:100%;text-align:center;"><a class="top_cat_countLike" href="" param = ' + ServiceID + '><img src="images/like.png" alt="LIKE"  /></a><span id="likecount">' + countLike + '</span></div></div>';
+                    } else {
+                        content = content + '<div class="ui-block-b" style="padding:10px;"><a id="contentButton" data-role="button" href="#" param="' + ServiceID + '"><img src="http://wap.gpgamestore.com/CMS/UIHeader/CategoryImg/' + ImageName + '" alt="image" style="width:100%;"></a><div id="catTitle" style="width:100%;text-align:center;"><a id="contentButton" data-role="" href="#" param="' + ServiceID + '" style="text-decoration: none;">' + ServiceTitle + '</a></div><div style="width:100%;text-align:center;"><a class="top_cat_countLike" href="" param = ' + ServiceID + '><img src="images/like.png" alt="LIKE"  /></a><span id="likecount">' + countLike + '</span></div></div></div>'
+                    }
+
+                });
+
+                $("#top_cat_view").html("");
+                $("#top_cat_view").append(content);
+                $('[data-role="button"]').button();
+
+                $(function () {
+                    //284
+                    $("#top_cat_view #contentButton ").bind("tap", tapHandler);
+                    function tapHandler(event) {
+                        //get the content id and keep in session variable
+
+                        sessionStorage.ParameterID = $(this).attr("param");
+
+                        /*show the please wait dialog while msisdn still not detected but user click on the content*/
+                        if (NativeInterfaceDroid.getMSISDN() == "START") {
+                            NativeInterfaceDroid.msisdnDetectionRunning(sessionStorage.ParameterID, "");
+                            return false;
+                        }
+
+                        //If user click weather content
+                        if (sessionStorage.ParameterID == "7") {
+                            $.mobile.changePage($('#page_weather_categories'), {transition: "none"});
+                            return false;
+                        }
+                        ;
+
+                        //If WIFI and open MSISDN entry dialog
+                        if (NativeInterfaceDroid.getMSISDN() == "ERROR") {
+                            NativeInterfaceDroid.entryMSISDN(sessionStorage.ParameterID, "");
+                            return false;
+                        }
+
+                        NativeInterfaceDroid.getServiceText("" + sessionStorage.ParameterID, "");
+                    }
+                });
+
+                //Start Start top cat view LikeButton Count 314
+
+                $(function () {
+                    //$(".top_cat_countLike").click(function (){
+                    $('.top_cat_countLike').on("click", function (e) {
+
+                        var ContentCode = $(this).attr('param');
+                        var Mno = NativeInterfaceDroid.getMyValue(); //Get MSISDN 
+                        var HS_MANUFAC = NativeInterfaceDroid.HS_BRAND();
+                        var HS_MOD = NativeInterfaceDroid.HS_MOD();
+                        var GetUserIP = NativeInterfaceDroid.GetUserIP();
+                        var HS_DIM = NativeInterfaceDroid.HS_DIM();
+                        var IMEI = NativeInterfaceDroid.getIMEI();
+                        //alert("IMEI is :"+IMEI);
+                        //alert(""+ContentCode);
+                        var likeCount = $(this).closest('div').find('#likecount');
+                        /*$.getJSON('http://203.76.126.210/shaboxbuddy/like_counter.php?callback=?&&ContentCode='+ContentCode+'&IMEI=864512016016833&MSISDN=01788800205&HS_MANUFACTURER=WALTON&HS_MODEL=Walton%20Primo%20H1&IP=192.168.10.187', function (data) {   */
+                        $.getJSON('http://203.76.126.210/shaboxbuddy/like_counter.php?callback=?&&ContentCode=' + ContentCode + '&IMEI=' + IMEI + '&MSISDN=' + Mno + '&HS_MANUFACTURER=' + HS_MANUFAC + '&HS_MODEL=' + HS_MOD + '&IP=' + GetUserIP + '', function (data) {
+                            if (data.like != "You already liked this content")
+                            {
+                                $(likeCount).html(data.like);
+                                //alert(data.like);
+                            }
+                            else
+                            {
+                                alert(data.like);
+                            }
+                        });
+                    });
+
+                });
+                //End Start top cat view LikeButton Count
+                //fifa image
+
+                $(function () {
+                    $("#fifa_image").bind("tap", tapHandler);
+                    function tapHandler(event) {
+                        //get the content id and keep in session variable
+                        sessionStorage.ParameterID = "44";
+
+                        /*show the please wait dialog while msisdn still not detected but user click on the content*/
+                        if (NativeInterfaceDroid.getMSISDN() == "START") {
+                            NativeInterfaceDroid.msisdnDetectionRunning(sessionStorage.ParameterID, "");
+                            return false;
+                        }
+
+                        // //If user click weather content
+                        // if (sessionStorage.ParameterID=="7") {
+                        //   $.mobile.changePage($('#page_weather_categories'), {transition : "none"});
+                        //   return false;
+                        // };
+
+                        //If WIFI and open MSISDN entry dialog
+                        if (NativeInterfaceDroid.getMSISDN() == "ERROR") {
+                            NativeInterfaceDroid.entryMSISDN(sessionStorage.ParameterID, "");
+                            return false;
+                        }
+
+                        NativeInterfaceDroid.getServiceText("" + sessionStorage.ParameterID, "");
+                    }
+                });
+
+
+
+
+                $(function () {
+                    // $("#adplay_banner").bind( "tap", tapHandler );
+                    // function tapHandler(event){
+                    //get the content id and keep in session variable
+                    //   try{
+
+                    //var BannerImage = NativeInterfaceDroid.getBannerImage(); 
+                    //var banner_URL = NativeInterfaceDroid.getBannerReUrl(); 
+
+                    // alert(BannerImage); 
+                    //  }catch (err){
+                    //     alert(err); 
+                    //   }
+                    //$("#adplay_banner").html('<a data-transition="none"  href="' + banner_URL +'"><img src="' + BannerImage +'" alt="Advertise"></a>');
+
+
+                    // }
+                });
+
+
+
+
+
+                $(function ()
+                {
+                    $(".weather_sub_cat_Button").bind("tap", tapHandler);
+                    function tapHandler(event) {
+                        //get the content id and keep in session variable
+                        sessionStorage.ParameterWeatherID = $(this).attr("criteriaId");
+
+                        //Show the MSISDN entry Dialog
+                        if (NativeInterfaceDroid.getMSISDN() == "ERROR") {
+                            NativeInterfaceDroid.entryMSISDN(sessionStorage.ParameterID, sessionStorage.ParameterWeatherID);
+
+                            return false;
+                        }
+
+                        NativeInterfaceDroid.getServiceText(sessionStorage.ParameterID, sessionStorage.ParameterWeatherID);
+
+                    }
+                });
+
+
+
+            });
+
+
+
+            var content1 = "";
+            var cnt = 0;
+
+            $("#more_cat_view").html("<p align='center'>Loading, Please wait...</p>");
+
+            $.getJSON('http://203.76.126.210/shaboxbuddy/get_categories.php?callback=?&cat=6', function (data) {
+
+                $.each(data, function (i, item) {
+                    var ServiceTitle = item.ServiceTitle;
+                    var ServiceID = item.ServiceID;
+                    var ImageName = item.ImageName;
+                    var countLike = item.countLike;
+
+                    //alert(ServiceTitle);
+
+                    cnt++;
+
+                    //alert(cnt);
+                    //443
+
+                    if (cnt % 2 != 0) {
+                        content1 = content1 + '<div class="ui-grid-a"><div class="ui-block-a" style="padding:10px;"><a id="contentButton" href="#" data-role="button" param = ' + ServiceID + '><img src="http://wap.gpgamestore.com/CMS/UIHeader/CategoryImg/' + ImageName + '" alt="image" style="width:100%"></a><div style="width:100%;text-align:center;"><a id="contentButton" href="#" data-role="" param = ' + ServiceID + ' style="text-decoration: none;">' + ServiceTitle + '</a></div><div style="width:100%;text-align:center;"><a class="more_cat_countLike" href="" param = ' + ServiceID + '><img src="images/like.png" alt="LIKE"  /></a><span id="likecount">' + countLike + '</span></div></div>';
+                    } else {
+                        content1 = content1 + '<div class="ui-block-b" style="padding:10px;"><a id="contentButton" data-role="button" href="#" param="' + ServiceID + '"><img src="http://wap.gpgamestore.com/CMS/UIHeader/CategoryImg/' + ImageName + '" alt="image" style="width:100%;"></a><div id="catTitle" style="width:100%;text-align:center;"><a id="contentButton" data-role="" href="#" param="' + ServiceID + '" style="text-decoration: none;">' + ServiceTitle + '</a></div><div style="width:100%;text-align:center;"><a class="more_cat_countLike" href="" param = ' + ServiceID + '><img src="images/like.png" alt="LIKE"  /></a><span id="likecount">' + countLike + '</span></div></div></div>'
+                    }
+
+                });
+                $("#more_cat_view").html("");
+                $("#more_cat_view").html(content1);
+                $('[data-role="button"]').button();
+
+                $(function ()
+                {
+                    $("#more_cat_view #contentButton").bind("tap", tapHandler);
+                    function tapHandler(event)
+                    {
+                        //alert("hello more");
+                        // NativeInterfaceDroid.droidMessage("hello more");
+
+                        //get the content id and keep in session variable
+                        sessionStorage.ParameterID = $(this).attr("param");
+
+                        /*show the please wait dialog while msisdn still not detected but user click on the content*/
+                        if (NativeInterfaceDroid.getMSISDN() == "START") {
+                            NativeInterfaceDroid.msisdnDetectionRunning(sessionStorage.ParameterID, "");
+                            return false;
+                        }
+
+                        //open msisdn entry dialog
+                        if (NativeInterfaceDroid.getMSISDN() == "ERROR") {
+                            NativeInterfaceDroid.entryMSISDN(sessionStorage.ParameterID, "");
+                            //alert("Please this app open with mobile internet.");
+                            return false;
+                        }
+
+                        //Get the result page
+                        NativeInterfaceDroid.getServiceText("" + sessionStorage.ParameterID, "");
+                    }
+                });
+
+                //================Start Start top cat view LikeButton Count 314=======================/
+
+                $(function () {
+                    //$(".top_cat_countLike").click(function (){
+                    $('.more_cat_countLike').on("click", function (e) {
+
+                        var ContentCode = $(this).attr('param');
+                        var Mno = NativeInterfaceDroid.getMyValue(); //Get MSISDN 
+                        var HS_MANUFAC = NativeInterfaceDroid.HS_BRAND();
+                        var HS_MOD = NativeInterfaceDroid.HS_MOD();
+                        var GetUserIP = NativeInterfaceDroid.GetUserIP();
+                        var HS_DIM = NativeInterfaceDroid.HS_DIM();
+                        var IMEI = NativeInterfaceDroid.getIMEI();
+                        //alert("IMEI is :"+IMEI);
+                        //alert(""+ContentCode);
+                        var likeCount = $(this).closest('div').find('#likecount');
+                        /*$.getJSON('http://203.76.126.210/shaboxbuddy/like_counter.php?callback=?&&ContentCode='+ContentCode+'&IMEI=864512016016833&MSISDN=01788800205&HS_MANUFACTURER=WALTON&HS_MODEL=Walton%20Primo%20H1&IP=192.168.10.187', function (data) {   */
+                        $.getJSON('http://203.76.126.210/shaboxbuddy/like_counter.php?callback=?&&ContentCode=' + ContentCode + '&IMEI=' + IMEI + '&MSISDN=' + Mno + '&HS_MANUFACTURER=' + HS_MANUFAC + '&HS_MODEL=' + HS_MOD + '&IP=' + GetUserIP + '', function (data) {
+                            if (data.like != "You already liked this content")
+                            {
+                                $(likeCount).html(data.like);
+                                //alert(data.like);
+                            }
+                            else
+                            {
+                                alert(data.like);
+                            }
+                        });
+                    });
+
+                });
+                //===================End Start top cat view LikeButton Count==============================/
+            });
+
+
+        });
+
+
+        $('#buttonBack').click(function () {
+            parent.history.back();
+            return false;
+        });
+
+        $('#buttonHelpBack').click(function () {
+            parent.history.back();
+            return false;
+        });
+
+        $('#buttonHelpBackFooter').click(function () {
+            parent.history.back();
+            return false;
+        });
+
+        $(document).bind('mobileinit', function () {
+            $.mobile.loader.prototype.options.text = "loading";
+            $.mobile.loader.prototype.options.textVisible = false;
+            $.mobile.loader.prototype.options.theme = "a";
+            $.mobile.loader.prototype.options.html = "";
+            $.support.touchOverflow = true;
+            $.mobile.touchOverflowEnabled = true;
+            $.support.cors = true;
+            $.mobile.allowCrossDomainPages = true;
+            $.mobile.pushStateEnabled = false;
+        });
+
+
+        /* Weather Sub Category */
+
+        function helpPage_android()
+        {
+            // alert("hello");
+            NativeInterfaceDroid.getHelpPage();
+        }
+
+
+        /* Help Page */
+        /*$(function(){
+         $("#helpPage_android").click(function(){
+         // $('[data-role=navbar]').navbar();
+         // NativeInterfaceDroid.getHelpPage();
+         // $(".helpPage").refresh();
+         alert("hello");
+         });
+         });*/
+
+
+
+    </script>
+</html>

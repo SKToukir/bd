@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986375086769",
+    "firebase_url": "https://buddy-28f5a.firebaseio.com",
+    "project_id": "buddy-28f5a",
+    "storage_bucket": "buddy-28f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986375086769:android:8b9d7ef05002a452",
+        "android_client_info": {
+          "package_name": "com.vumobile.shaboxbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986375086769-8evhg3lcltbhrisnmltp5odeiom4sjjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vumobile.shaboxbuddy",
+            "certificate_hash": "2C551E8167D14CC61875477BB1E7554DB1AA5B4C"
+          }
+        },
+        {
+          "client_id": "986375086769-c7oioloiug9nggi1tjh0fd80g7hfu6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bqSqEPLs64_mIoz9wibrwFmV5oSje7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986375086769-c7oioloiug9nggi1tjh0fd80g7hfu6nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

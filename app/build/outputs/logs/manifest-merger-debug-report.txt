@@ -1,0 +1,531 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:2:1-226:12
+	package
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:19:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:19:22-65
+permission#com.vumobile.shaboxbuddy.permission.C2D_MESSAGE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:22:5-24:47
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:23:9-71
+uses-permission#com.vumobile.shaboxbuddy.permission.C2D_MESSAGE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:26:5-87
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:26:22-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:29:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:29:22-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:32:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:35:5-66
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:35:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:38:5-76
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:38:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:40:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:41:5-79
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:41:22-76
+application
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:43:5-224:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:27:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.5.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:49:9-45
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:48:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:46:9-43
+	android:allowBackup
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:45:9-35
+	android:icon
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:47:9-45
+	android:theme
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:50:9-56
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:44:9-42
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:51:9-53:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:53:13-66
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:52:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:54:9-56:55
+	android:value
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:56:13-52
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:55:13-58
+activity#com.vumobile.shaboxbuddy.SplashActivity
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:58:9-67:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:59:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:62:13-66:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:65:27-74
+activity#com.vumobile.shaboxbuddy.MoreCategories
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:69:13-43
+activity#com.vumobile.shaboxbuddy.SeviceResult
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:74:13-40
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:73:13-41
+activity#com.vumobile.shaboxbuddy.ServiceResultArchive
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:77:9-81:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:79:13-40
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:78:13-49
+activity#com.vumobile.shaboxbuddy.ServiceArchiveList
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:82:9-86:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:84:13-40
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:83:13-47
+activity#com.vumobile.shaboxbuddy.ShaboxBuddyMainActivity
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:87:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:90:13-40
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:91:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:89:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:88:13-52
+activity#com.vumobile.shaboxbuddy.FifaSeviceResult
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:94:9-100:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:97:13-40
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:98:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:96:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:95:13-45
+activity#com.vumobile.shaboxbuddy.SeviceResultWeather
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:101:9-107:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:104:13-40
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:105:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:103:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:102:13-48
+activity#com.vumobile.shaboxbuddy.ServiceResultTopChart
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:108:9-114:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:111:13-40
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:112:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:110:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:109:13-50
+activity#com.vumobile.shaboxbuddy.ServiceResultFaq
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:115:9-121:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:118:13-40
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:119:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:117:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:116:13-45
+activity#com.vumobile.shaboxbuddy.ServiceResultAbout
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:122:9-128:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:125:13-40
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:126:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:124:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:123:13-47
+activity#com.vumobile.shaboxbuddy.ServiceResultHelp
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:129:9-135:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:132:13-40
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:133:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:131:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:130:13-46
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:137:9-149:20
+	android:permission
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:139:13-73
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:138:13-71
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.vumobile.shaboxbuddy
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:140:13-148:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:143:17-81
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:143:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:145:17-86
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:145:25-83
+category#com.vumobile.shaboxbuddy
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:147:17-69
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:147:27-66
+service#com.vumobile.shaboxbuddy.GCMIntentService
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:153:9-159:19
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:154:13-45
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:155:13-158:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:156:17-77
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:156:25-75
+receiver#com.mobileapptracker.Tracker
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:162:9-168:20
+	android:exported
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:164:13-36
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:163:13-56
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:165:13-167:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:166:17-79
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:166:25-76
+activity#com.vumobile.shaboxbuddy.AdplayActivity
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:170:9-176:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:174:13-49
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:173:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:172:13-172
+	android:theme
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:175:13-56
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:171:13-43
+activity#com.vumobile.shaboxbuddy.AdplayVideoActivity
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:177:9-183:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:181:13-49
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:180:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:179:13-172
+	android:theme
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:182:13-56
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:178:13-48
+activity#com.vumobile.shaboxbuddy.PushActivity
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:184:9-190:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:188:13-49
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:187:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:186:13-172
+	android:theme
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:189:13-56
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:185:13-41
+activity#com.vumobile.shaboxbuddy.TopCategories
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:191:9-192:20
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:191:19-48
+activity#com.vumobile.shaboxbuddy.WeatherListActivity
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:193:9-198:20
+	android:screenOrientation
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:197:13-49
+	android:launchMode
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:196:13-43
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:195:13-152
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:194:13-48
+activity#com.vumobile.shaboxbuddy.pushActivityIntent
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:199:9-202:20
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:201:13-72
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:200:13-47
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:204:9-208:48
+	android:label
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:208:13-45
+	android:configChanges
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:205:13-113
+	android:theme
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:207:13-72
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:204:19-63
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:211:9-213:39
+	android:authorities
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:211:19-93
+	android:exported
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:213:13-36
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:212:13-64
+receiver#com.vumobile.shaboxbuddy.util.MyReceiver
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:214:9-222:20
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:214:19-50
+intent-filter#YouWillNeverKillMe+android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:215:13-221:29
+action#YouWillNeverKillMe
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:216:17-71
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:216:25-58
+intent-filter#restartApps
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:217:17-219:33
+action#restartApps
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:218:21-58
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:218:29-55
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:220:17-78
+	android:name
+		ADDED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml:220:25-76
+uses-sdk
+INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.5.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\AndroidManifest.xml:25:13-82
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:19-85
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:36:13-40:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\it-6\Desktop\Project\shaBuddy-5-13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:9:13-58

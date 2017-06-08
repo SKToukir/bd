@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/alertstyle"
+    tools:context=".MainActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="71dp"
+                android:layout_height="49dp"
+                android:layout_marginTop="30dp"
+                android:layout_weight="0.02"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_launcher" />
+
+            <TextView
+                android:id="@+id/txtSuggestionLebel"
+                android:layout_width="212dp"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/txtPinCode"
+                android:layout_alignRight="@+id/txtPinCode"
+                android:layout_below="@+id/txtPinCodeLebel"
+                android:layout_marginBottom="4dp"
+                android:layout_marginTop="10dp"
+                android:text="Mobile No"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/txtMno"
+                android:layout_width="212dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Enter mobile no"
+                android:inputType="phone"
+                android:textSize="14sp" >
+
+                <requestFocus />
+            </EditText>
+
+            <Button
+                android:id="@+id/btnOk"
+                android:layout_width="212dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/track_info_bg"
+                android:text="Submit"
+                android:textColor="#FFFFFF" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/txtForgetPass"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="10dp"
+                    android:clickable="true"
+                    android:text=""
+                    android:textColor="#000000" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

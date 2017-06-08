@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.2.0_155238b02f42300f907f2760b44690078eaeeb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.0_987534395913dee182a6cb9446b085a99f63ef3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\gcm_c2502322cfa34941b6fd44a38e43b506a83d7545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tariqul\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\support-annotations-23.2.0_099169d5740d994af2d8d9088fdd3cdfc7321599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\adplaybind.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1adfe6eab4876fc9857bf633dcc0c8fd4a2cd67d">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\adplaybind_2d3ed852ab021533c14d45f40c622a56eb0f06ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\bugsense-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf354591194bef969ec162609bd1cc279d2d113b">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\bugsense-3.6.1_70b20f6fb59b5af578f4bf8156730791af63002c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-9.0.0_0007447c3d03cf3444e8b7cc803c742b4e7668f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\AppRate_1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="418c7690cc2efd2d1de8327f400beeeebac7ecfb">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\AppRate_1.1_5daa8d14f592d55d04b8814443b25db1674856c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-plus-9.0.0_e1b1b15cd9f815ad9d8bceaf9b7d21beeb5f708a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-identity-9.0.0_f090c9f1891cc2222ae99a417b772685d495918c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.0.0_68c614dfeccb0f9ab8f36247b0f99c01fe030c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.0.0_cdaa6149a26698f0daa82e63878e1620788ffaa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.0.0_619ecbde907ee1bed60368e537a317b3a7f442dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-9.0.0_f8684b2752f8102f0209a27509cdf63d897c6e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-base-9.0.0_a7cf3e367379e80333a5f34389fd560dd36295b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\google-play-services_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ccfb6021b2c355aa8b0d227e5ef01cba1514e0">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\google-play-services_lib_2cae0b03501538ae417ab86e7a38665060a04926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-9.0.0_489c520bc2ceb46ecb787fefedbb0f99ebf22985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.0.0_8235b6a95a609b929be36807499e48a63afda0e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.facebook.android-facebook-android-sdk-4.5.0_ac472961d7c667033b9ff09c8c3b02fd9425bb09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\internal_impl-23.2.0_d68f45e94702f51c3dee62954416587a76f9f724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\ksoap2-android-assembly-2.5.8-jar-with-dependencies_68c59169f0d87fc759c691169998924e7df1b018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-impl-9.0.0_af26829f7de6adaccfbf1f2e5e913a7ddcd602dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.0.0_f6059fc23f91ce1d079468982115edd44d02fadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.0_8758b45e98749a0315b72b90830ed3bb9c66a06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\volley_ef983c76288e62d56206e5097e9f9f9717212b60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-9.0.0_f220ea227cba6bbe840e463b2db2db9c03d228f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.0.0_b6a1299530b350495eb4ea76072e633af2a768e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.0_e48c49706c45f209d77b426a17f5774f280a8249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\MobileAppTracker-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="20156077962afe18289252f0ce6159e5c4d4e242">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\MobileAppTracker-3.1_9ee72910295dbfb2d15bcd53459b869f7d22f7c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.0.0_e2cd210111e34435a3e6e1215ddfdc5d9e03cf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Tou2\shaBuddy-master\app\libs\FlurryAnalytics-4.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39e06eb3e9363f82173d8b1c8ebc2d763486dce5">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\FlurryAnalytics-4.2.0_48cb45f8e5d4ad7e9dd2c915b2a4f9b09c24baa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IT-10\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="F:\Tou2\shaBuddy-master\app\build\intermediates\pre-dexed\release\bolts-android-1.2.0_2942d70478ff61d2a85d377b042cdcc80037a9f6.jar" />
+    </item>
+
+</items>

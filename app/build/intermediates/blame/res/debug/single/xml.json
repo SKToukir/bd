@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_tracker.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\xml\\global_tracker.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\global_tracker.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ecommerce_tracker.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\xml\\ecommerce_tracker.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_tracker.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ecommerce_tracker.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\xml\\ecommerce_tracker.xml"
+    }
+]

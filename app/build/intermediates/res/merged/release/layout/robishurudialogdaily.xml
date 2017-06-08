@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@android:color/transparent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerInParent="true">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:weightSum="5">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:scaleType="centerCrop"
+            android:layout_weight="3"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/buddy_robi_suru_koron_page" />
+
+        <ImageButton
+            android:id="@+id/robiShuruButton"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="-3dp"
+            android:layout_weight=".4"
+            android:background="@drawable/suru_korun"/>
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1.2"
+            android:src="@drawable/footer_text_buddy" />
+
+        <ImageButton
+            android:id="@+id/robiNibondhonBatilButton"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_weight=".4"
+            android:layout_marginTop="-5dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/nibondhon_batil"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/re_close_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:layout_marginRight="2dp"
+        android:layout_marginLeft="-30dp"
+        android:background="@drawable/close_round"
+        android:src="@android:drawable/ic_menu_close_clear_cancel">
+    </ImageButton>
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/alertstyle"
+    android:padding="15dp" >
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/icon" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:src="@drawable/robinibondhonbatiltextdaily" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView3"
+        android:layout_alignRight="@+id/imageView3"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/robisofoldaily" />
+
+    <Button
+        android:id="@+id/robiShuruButton"
+        android:layout_width="97dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/robishurubutton" />
+
+    <Button
+        android:id="@+id/robiNibondhonBatilButton"
+        android:layout_width="130dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="2dp"
+        android:layout_below="@+id/imageView3"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/robinibondhonbatilbutton" />
+
+</RelativeLayout>
+-->

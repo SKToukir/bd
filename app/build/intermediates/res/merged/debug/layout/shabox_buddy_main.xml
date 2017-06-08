@@ -1,0 +1,80 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:padding="0dp" >
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/header_image"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            
+            android:gravity="center_vertical"
+            android:scaleType="fitXY" />
+
+        <RelativeLayout
+            android:id="@+id/RL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            </RelativeLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="9"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+
+        </LinearLayout>
+
+       <!-- <RelativeLayout
+            android:id="@+id/adplay_linear"
+            android:layout_width="fill_parent"
+            android:layout_height="60dip"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/banner"
+            android:orientation="vertical" >
+            <TextView
+                android:id="@+id/adplay_banner_ad"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/nevigation_"
+                android:gravity="center"
+                android:text="Hello Text Ad" />
+            <ImageView
+                android:id="@+id/close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/close_" />
+
+            <ImageView
+                android:id="@+id/nevigation_"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dip"
+                android:background="@drawable/banner_navigation"
+                android:gravity="center" />
+        </RelativeLayout>-->
+
+    </LinearLayout>
+
+</TabHost>

@@ -1,0 +1,698 @@
+[
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_navigation.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\banner_navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\batil.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\batil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_info_bg.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\track_info_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_reconfirm.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\buddy_reconfirm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\batildd.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\batildd.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suru_korun.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\suru_korun.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\banner.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_icon.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\player_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\transparent.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_robi_suru_koron_page.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\buddy_robi_suru_koron_page.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_pressed.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\tab_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_confirm_btn.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\buddy_confirm_btn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alertstyle.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\alertstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selected.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corner.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nibondhon_batil.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\nibondhon_batil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_add_btn_robi.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\buddy_add_btn_robi.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_unselected.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_unselected.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_confirm.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\buddy_confirm.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\play_.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\robisofolweekly.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\robisofolweekly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\close_.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\transparent.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_robi_suru_koron_page.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\buddy_robi_suru_koron_page.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\banner.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\close_.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\robisofolweekly.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\robisofolweekly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_confirm.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\buddy_confirm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_info_bg.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\track_info_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selected.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_navigation.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\banner_navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_preview.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\default_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suru_korun.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\suru_korun.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\batildd.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\batildd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_confirm_btn.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\buddy_confirm_btn.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\play_.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_text_buddy.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\footer_text_buddy.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_add_btn_robi.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\buddy_add_btn_robi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_reconfirm.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\buddy_reconfirm.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alertstyle.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\alertstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_reconfirm_btn.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\buddy_reconfirm_btn.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_pressed.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\tab_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_icon.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\player_icon.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corner.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\batil.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\batil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nibondhon_batil.jpg",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\nibondhon_batil.jpg"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_round.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\close_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbutton.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_preview.png",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\default_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddy_reconfirm_btn.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\buddy_reconfirm_btn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_text_buddy.jpg",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\footer_text_buddy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_round.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\drawable\\close_round.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbutton.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_background.xml"
+    }
+]

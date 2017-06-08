@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="0dp"
+    android:background="#FFFFFF" >
+
+       <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/textHeadLebel"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:scaleType="fitXY"
+            android:gravity="center_vertical"
+             />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/layout_bottom"
+        android:layout_below="@+id/textHeadLebel"
+        android:background="#FFFFFF" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="134dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textBar"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="0dp"
+                android:background="#CCCCCC"
+                android:text=" "
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/txtMoviHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textBar"
+                android:layout_centerHorizontal="true"
+                android:text="FAQ"
+                android:textColor="#000000"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Service Name  :"
+                android:id="@+id/serviceNameTitle"
+                android:layout_below="@+id/txtMoviHeader"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="    BUDDY"
+                android:id="@+id/serviceNameDescription"
+                android:textColor="#000000"
+                android:textSize="14dp"
+                android:layout_toRightOf="@+id/serviceNameTitle"
+                android:layout_below="@+id/txtMoviHeader" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Service Type   :"
+                android:id="@+id/textView"
+                android:textColor="#000000"
+                android:layout_below="@+id/serviceNameDescription"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="   Infotainment"
+                android:id="@+id/textView2"
+                android:textColor="#000000"
+                android:layout_toRightOf="@+id/textView"
+                android:textSize="14dp"
+                android:layout_below="@+id/serviceNameDescription"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:id="@+id/txtMoveBollyHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="Q-1: What is  Buddy ?  "
+                android:textColor="#000000"
+                android:textSize="15dp"
+                android:layout_below="@+id/textView2" />
+
+            <TextView
+                android:id="@+id/txtMoveBollylist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtMoveBollyHeader"
+                android:text="Ans: Buddy is your daily mobile infotainment destination for news, lifstyle,entertainment and information.\n "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtMoveHollyHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtMoveBollylist"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold"
+                android:text="Q-2: What is Shabox Buddy Portal Address? "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtMoveHollylist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtMoveHollyHeader"
+                android:text="Ans:"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtMusicHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtMoveHollylist"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold"
+                android:text="\n Q-3: Why should I subscribe in  BUDDY App?  "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtBollyMusiclistHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtMusicHeader"
+                android:text="Ans: From Buddy App, you will get love tips, sports news, jokes, TV Time, breaking news, Hadis, health tips and many more infotainment services which will enrich your information library.\n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtBollyMusiclist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_below="@+id/txtBollyMusiclistHeader"
+                android:text="Q-4: How much I have to pay for all these service? "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtHollyMusiclistHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtBollyMusiclist"
+                android:text="Ans:TK15 +(VAT and SD+SC) per week for GP, TK10 +(VAT and SD+SC) per week for Robi, TK2 +(VAT and SD+SC) per day for other Operators.\n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtHollyMusiclist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_below="@+id/txtHollyMusiclistHeader"
+                android:text="Q-5: How can I activate SHABOX BUDDY service by SMS? "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtfaq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtHollyMusiclist"
+                android:text="Ans: Type START SB and send to 6624. Ex: START SB to 6624 \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtfaq1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_below="@+id/txtfaq"
+                android:text="Q-6: How can I deactivate SHABOX BUDDY service by SMS?"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtfaq2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtfaq1"
+                android:text="Ans: Type STOP SB send to 6624. Ex: STOP SB to 6624 \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_07"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtfaq2"
+                android:textStyle="bold"
+                android:text="Q-7: What is the helpline/hotline number for Grameenphone users?"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_07"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_07"
+                android:text="Ans: 8801717053061 \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_08"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ans_07"
+                android:textStyle="bold"
+                android:text="Q-8: What is the helpline/hotline number for Robi users? "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_08"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_08"
+                android:text="Ans: 09612316264 \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_09"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_below="@+id/ans_08"
+                android:text="Q-9: What is the helpline/hotline number for Blink users?  "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_09"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_09"
+                android:text="Ans: 09612316264 \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ans_09"
+                android:textStyle="bold"
+                android:text="Q-10: What is the helpline/hotline number for Airtel users?  "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_10"
+                android:text="Ans: 09612316264 \n "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ans_10"
+                android:textStyle="bold"
+                android:text="Q-11: What is the helpline/hotline number for Teletalk users?  "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_11"
+                android:text="Ans: 09612316264 \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ans_11"
+                android:textStyle="bold"
+                android:text="Q-12: What is the time to get the helpline support? "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_12"
+                android:text="Ans: 8:00AM - 8:00PM \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ans_12"
+                android:textStyle="bold"
+                android:text="Q-13: Is this site providing any email support? "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_13"
+                android:text="Ans: Yes \n"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ques_14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ans_13"
+                android:textStyle="bold"
+                android:text="Q-14: What is the support email address? "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/ans_14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ques_14"
+                android:text="Ans: support@vumobile.biz  "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/portalLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/txtMusicHeader"
+                android:layout_toRightOf="@+id/txtMoveHollylist"
+                android:text="wap.shabox.mobi/buddy "
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FFFFFF"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/bar"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textFooterLebel1"
+                 android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="onHomeButtonClicked"
+                android:text="Back"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#333333"
+                android:textColorHighlight="#A4A4A4"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

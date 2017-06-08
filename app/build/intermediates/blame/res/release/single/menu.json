@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_push_activity_intent.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\menu\\menu_push_activity_intent.xml"
+    }
+]

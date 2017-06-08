@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@android:color/transparent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerInParent="true">
+
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingLeft="-5dp"
+        android:paddingRight="-5dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:weightSum="3">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scaleType="centerCrop"
+            android:layout_weight="2.6"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/buddy_confirm" />
+
+        <ImageButton
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_weight=".4"
+            android:background="@drawable/buddy_confirm_btn"
+            android:textColor="#000000"
+            android:layout_marginBottom="2dp"/>
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/close_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:layout_marginRight="2dp"
+        android:layout_marginLeft="-30dp"
+        android:background="@drawable/close_round"
+        android:src="@android:drawable/ic_menu_close_clear_cancel">
+    </ImageButton>
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+
+
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:background="#ffffff"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="86dp"
+                android:layout_height="71dp"
+                android:layout_marginTop="30dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_launcher" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <TextView
+                    android:id="@+id/txtMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_gravity="fill_horizontal"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:text="You are not a registered user. To read mobile magazine every day at Tk 2+(VAT+SD+SC)/day click too continue button."
+                    android:textColor="#000000" />
+
+                  &lt;!&ndash;<TextView
+                     android:id="@+id/txtMessage2"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_alignParentBottom="true"
+                     android:layout_below="@id/txtMessage"
+                     android:layout_marginTop="15dp"
+                     android:layout_weight="0.50"
+                     android:gravity="center"
+                     android:paddingLeft="20dp"
+                     android:paddingRight="20dp"
+                      android:textColor="#000000"
+                     android:text="To reconfirm joining Buddy service click CONFIRM button below. You will be charged TK 15 (+SD&apos;VAT) and auto renewed every week. You will get unlimited access after joining.
+To cancel the weekly subscription for &apos; Buddy Subscription Service&apos; send STOP SB to 6624.
+" />&ndash;&gt;
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btnRegister"
+                android:layout_width="212dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/track_info_bg"
+                android:text="Click to Continue"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>-->

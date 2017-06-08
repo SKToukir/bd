@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\it-6\\Desktop\\Project\\shaBuddy-5-13\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.0.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.0.0\\res\\raw\\gtm_analytics"
+    }
+]

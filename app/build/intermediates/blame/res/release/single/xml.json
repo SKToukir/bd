@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\app_tracker.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\ecommerce_tracker.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\xml\\ecommerce_tracker.xml"
+    },
+    {
+        "merged": "F:\\Tou2\\shaBuddy-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\global_tracker.xml",
+        "source": "F:\\Tou2\\shaBuddy-master\\app\\src\\main\\res\\xml\\global_tracker.xml"
+    }
+]
